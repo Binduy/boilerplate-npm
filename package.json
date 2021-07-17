@@ -1,5 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": {
+		"name": "Bindu Yadav",
+		"email": "bindu.***@gmail.com"
+	},
+	"description": "This is descreption in few words",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
